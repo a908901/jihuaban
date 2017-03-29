@@ -1,19 +1,17 @@
 给基于vue的单页应用计划板
+克隆：
+git clone git@github.com:a908901/jihuaban.git </hr>
 
-git clone git@github.com:a908901/jihuaban.git
-
-
-
-
-npm install
+安装依赖
+npm install </hr>
 
 
 
+开发模式
+npm run dev </hr>
 
-npm run dev
 
-
-
-npm run build
+发布模式
+npm run build </hr>
 
 
