@@ -1,5 +1,7 @@
-给基于vue的单页应用计划板
-克隆：
+给基于vue的单页应用计划板</hr>
+
+
+克隆
 git clone git@github.com:a908901/jihuaban.git </hr>
 
 安装依赖
